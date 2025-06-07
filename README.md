@@ -39,4 +39,4 @@ This is my individual project presentation on Machine Learning.
 ---
 
 ## Purpose  
-The goal of this project is to apply my knowledge and skills in Machine Learning. I chose the topic *Music Recommendation System* because I enjoy music and wanted to combine my interest in Data Science with something I’m passionate about, which is listening to music.
+The goal of this project is to apply my knowledge and skills in Machine Learning. I chose the topic *Music Recommendation System* because I enjoy music and wanted to combine my interest in Data Science with something I’m passionate about, which is music.
